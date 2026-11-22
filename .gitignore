@@ -1,0 +1,7 @@
+build/
+cmake-bulid-debug/
+cmake-bulid-release/
+.idea/
+*.elf
+*.bin
+*.hex
